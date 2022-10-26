@@ -1,0 +1,48 @@
+export const Data = {
+  Clothing: [
+    "All Clothing",
+    "Coats",
+    "Dresses",
+    "Jackets",
+    "Jeans",
+    "+ More",
+  ],
+  Shoes: [
+    "All Shoes",
+    "Boots",
+    "Flats",
+    "Heels",
+  ],
+  Accessories: [
+    "All Accessories",
+    "Belts",
+    "Cases",
+    "Face masks",
+    "+ More",
+  ],
+  Bags: [
+    "All Bags",
+    "Bag packs",
+    "Bag accessories",
+    "Beach and straw bags",
+    "+ More",
+  ],
+  Jewelry: [
+    "All Jewelry",
+    "Bracelets",
+    "Brooches",
+    "Earrings",
+  ],
+  Brands: [
+    "Balenciaga",
+    "Bottega Veneta",
+    "Chloé",
+    "Ganni",
+    "Gucci",
+    "H&M",
+    "Isabel Marant",
+    "& Other Stories",
+    "Prada",
+    "Reformation",
+  ],
+};

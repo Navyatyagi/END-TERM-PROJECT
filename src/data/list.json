@@ -1,0 +1,31 @@
+[{
+    "title":"WOMEN'S CLOTHING",
+    "data":[{"text":"Jackets"},{"text":"Coats"},{"text":"Dresses"},{"text":"Jeans"}]
+}, {
+    "title":"MEN'S CLOTHING",
+    "data":[{"text":"Jackets"},{"text":"Coats"},{"text":"Jeans"}]
+},{
+    "title":"WOMEN'S SHOES",
+    "data":[{"text":"Flats"},{"text":"Heels"},{"text":"Boots"},{"text":"Sneakers"}]
+},{
+    "title":"MEN'S SHOES",
+    "data":[{"text":"Boots"},{"text":"Sandals"},{"text":"Slip-ons"},{"text":"Sneakers"}]
+},{
+    "title":"WOMEN'S ACCESSORIES",
+    "data":[{"text":"Cases"},{"text":"Wallets and cardholders"},{"text":"Scarves"},{"text":"Watches"}]
+},{
+    "title":"MEN'S ACCESSORIES",
+    "data":[{"text":"Cufflinks"},{"text":"Scarves and handkerchiefs"},{"text":"Watches"},{"text":"Face Masks"}]
+},{
+    "title":"WOMEN'S BAGS",
+    "data":[{"text":"Totes and shopper bags"},{"text":"Clutches"},{"text":"Shoulder bags"},{"text":"Holdalls and weekend bags"}]
+},{
+    "title":"MEN'S BAGS",
+    "data":[{"text":"Tote bags"},{"text":"Cases"},{"text":"Pouches"},{"text":"Gym bags"}]
+},{
+    "title":"WOMEN'S JEWELRY",
+    "data":[{"text":"Necklaces"},{"text":"Brooches"},{"text":"Rings"},{"text":"Earrings"}]
+},{
+    "title":"MEN'S JEWELRY",
+    "data":[{"text":"Rings"},{"text":"Bracelets"},{"text":"Necklaces"}]
+}]
